@@ -1,11 +1,8 @@
 # Overview
-
-It is public template of assignment `"labrabota 3"` for FPMI students
+Это публичный репозиторий для лабораторной работы номер 2 по тпмп
 
 # Usage
-
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Вороненко Константин 12
 
 # Building
-
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Ссылка на репозиторий: https://github.com/ScR1pp1/lab2-task1-gr12-Voronenko
