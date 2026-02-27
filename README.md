@@ -1,11 +1,18 @@
-# Overview
+# Лабораторная работа №3
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Задание 1, Группа 12, Вороненко.
 
-# Usage
+Программа для поиска полных квадратов в массиве натуральных чисел.
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+## Сборка
+```bash
+gcc -o labrabota2-1 src/main.c -lm
+```
 
-# Building
+## Запуск
+```bash
+./labrabota2-1 <количество> <числа...>
+```
+Пример: `./labrabota2-1 3 1 4 9`
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Ссылка на репозиторий: https://github.com/ScR1pp1/lab3-task1-gr12-Voronenko
